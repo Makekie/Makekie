@@ -1,8 +1,7 @@
-- 👋 Hello, I’m @Makekie
-- 👀 I’m interested in music, creating stuff and data analisys.
-- 🌱 I’m currently learning Python and SQL.
-- 💞️ I’m yet to find what I want to collaborate on.
-- 📫 Want to reach me? Email me: lmacena13@hotmail.com
+- 👋 Olá, eu me chamo Lucas!
+- 👀 Tenho me interessado pela área de dados e atualmente estou lendo alguns livros sobre a área.
+- 🌱 Atualmente estou aprendendo Python e iniciando uma graduação em Análise e desenvolvimento de sistemas.
+- 📫 Caso queira me contatar: lmacena13@hotmail.com
 
 <!---
 Makekie/Makekie is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
