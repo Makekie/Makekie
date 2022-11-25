@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=makekie&label=Profile%20views&color=0e75b6&style=flat" alt="makekie" /> </p>
 
-- 🌱 I’m currently learning **Python, Pandas, Scikit_Learn, Seaborn**
+- 🌱 Focado em aprender **Python, Pandas, Scikit_Learn, Seaborn**
 
-- 📫 How to reach me **lmacena13@gmail.com**
+- 📫 Posso ser contatado pelo **lmacena13@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
