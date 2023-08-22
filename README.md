@@ -22,9 +22,9 @@
     />
     <source
         srcset="https://github-readme-stats.vercel.app/api?username=Makekie&theme=moltack&show_icons=true&hide=stars&hide_title=True&rank_icon=github"
-        media = "(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+        media = "(prefers-color-scheme: light)"
     />
-    <img src="https://github-readme-stats.vercel.app/api?username=Makekie&theme=dark&show_icons=true&hide=stars&hide_title=True&rank_icon=github/>
+    <img src="https://github-readme-stats.vercel.app/api?username=Makekie&theme=highcontrast&show_icons=true&hide=stars&hide_title=True&rank_icon=github/>
 </picture>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=makekie&" alt="makekie" /></p>
