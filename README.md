@@ -36,4 +36,5 @@
         srcset="[https://github-readme-stats.vercel.app/api?username=Makekie&theme=swift&show_icons=true&hide=stars&hide_title=True&rank_icon=github](https://github-readme-stats.vercel.app/api/pin/?username=Makekie&repo=dio-lab-open-source&theme=moltack)"
         media = "(prefers-color-scheme: light)"
     />
-    <img src="[https://github-readme-stats.vercel.app/api?username=Makekie&theme=highcontrast&show_icons=true&hide=stars&hide_title=True&rank_icon=github](https://github-readme-stats.vercel.app/api/pin/?username=Makekie&repo=dio-lab-open-source&theme=moltack)https://github-readme-stats.vercel.app/api/pin/?username=Makekie&repo=dio-lab-open-source&theme=moltack"/></p>
+    <img src="[https://github-readme-stats.vercel.app/api?username=Makekie&theme=highcontrast&show_icons=true&hide=stars&hide_title=True&rank_icon=github](https://github-readme-stats.vercel.app/api/pin/?username=Makekie&repo=dio-lab-open-source&theme=moltack)https://github-readme-stats.vercel.app/api/pin/?username=Makekie&repo=dio-lab-open-source&theme=moltack"/>
+<picture></p>
