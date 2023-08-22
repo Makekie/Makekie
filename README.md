@@ -15,6 +15,16 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> </p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=makekie&show_icons=true&locale=en" alt="makekie" /></p>
+<picture>
+    <source
+        srcset="https://github-readme-stats.vercel.app/api?username=Makekie&theme=dark&show_icons=true&hide=stars&hide_title=True&rank_icon=github"
+        media = "(prefers-color-scheme: dark)"
+    />
+    <source
+        srcset="https://github-readme-stats.vercel.app/api?username=Makekie&theme=moltack&show_icons=true&hide=stars&hide_title=True&rank_icon=github"
+        media = "(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+    />
+    <img src="https://github-readme-stats.vercel.app/api?username=Makekie&theme=dark&show_icons=true&hide=stars&hide_title=True&rank_icon=github/>
+</picture>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=makekie&" alt="makekie" /></p>
