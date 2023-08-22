@@ -29,12 +29,12 @@
 
 <p align="center"> <picture>
     <source
-        srcset="https://github-readme-stats.vercel.app/api/pin/?username=Makekie&repo=dio-lab-open-source&theme=vision-friendly-dark"
+        srcset="[https://github-readme-stats.vercel.app/api/pin/?username=Makekie&repo=dio-lab-open-source&theme=vision-friendly-dark](https://github.com/Makekie/dio-lab-open-source)"
         media = "(prefers-color-scheme: dark)"
     />
     <source
-        srcset="https://github-readme-stats.vercel.app/api/pin/?username=Makekie&repo=dio-lab-open-source&theme=swift"
+        srcset="[https://github-readme-stats.vercel.app/api/pin/?username=Makekie&repo=dio-lab-open-source&theme=swift](https://github.com/Makekie/dio-lab-open-source)"
         media = "(prefers-color-scheme: light)"
     />
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Makekie&repo=dio-lab-open-source&theme=highcontrast"/>
+    <img src="[https://github-readme-stats.vercel.app/api/pin/?username=Makekie&repo=dio-lab-open-source&theme=highcontrast](https://github.com/Makekie/dio-lab-open-source)"/>
 <picture></p>
