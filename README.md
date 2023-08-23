@@ -7,13 +7,13 @@
 
 - 📫 Posso ser contatado pelo **lmacena13@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/macena-lucas/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/macena-lucas/" height="30" width="40" /></a>
-</p>
+## Conecte-se comigo
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0E76A8)](https://www.linkedin.com/in/lucas-macena-vasconcelos-2a2228160/)
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> </p>
+[![Instagram](https://img.shields.io/badge/Instagram-000?style=for-the-badge&logo=instagram)](https://www.instagram.com/lmacena13/)
+
+## Habilidades:
+<p align="left"> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"> <img src="http://www.w3.org/2000/svg" alt="postgre" width="40" height="40"/> </a> <a href="https://www.microsoft.com/pt-br/sql-server/sql-server-2019" target="_blank" rel="noreferrer"> <img src="http://www.w3.org/2000/svg" alt="MSSQL" width="40" height="40"/> </a> </p>
 
 <p align="center"> <picture>
     <source
@@ -27,14 +27,15 @@
     <img src="https://github-readme-stats.vercel.app/api?username=Makekie&theme=highcontrast&show_icons=true&hide=stars&hide_title=True&rank_icon=github"/>
 </picture> </p>
 
-<p align="center"> <picture>
+<p align="center"> <a href="https://github.com/Makekie/dio-lab-open-source" target="_blank"> <picture>
     <source
-        srcset="[https://github-readme-stats.vercel.app/api/pin/?username=Makekie&repo=dio-lab-open-source&theme=vision-friendly-dark](https://github.com/Makekie/dio-lab-open-source)"
+        srcset="https://github-readme-stats.vercel.app/api/pin/?username=Makekie&repo=dio-lab-open-source&theme=vision-friendly-dark"
         media = "(prefers-color-scheme: dark)"
     />
     <source
-        srcset="[https://github-readme-stats.vercel.app/api/pin/?username=Makekie&repo=dio-lab-open-source&theme=swift](https://github.com/Makekie/dio-lab-open-source)"
+        srcset="https://github-readme-stats.vercel.app/api/pin/?username=Makekie&repo=dio-lab-open-source&theme=swift"
         media = "(prefers-color-scheme: light)"
     />
-    <img src="[https://github-readme-stats.vercel.app/api/pin/?username=Makekie&repo=dio-lab-open-source&theme=highcontrast](https://github.com/Makekie/dio-lab-open-source)"/>
-<picture></p>
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Makekie&repo=dio-lab-open-source&theme=highcontrast"/>
+<picture> </a>
+</p>
